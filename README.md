@@ -36,5 +36,5 @@ Regular Expressions (re): A module for handling string operations and data clean
 8. streamlit
 9. matplotlib
 
-please check above libraries before start this projext.
+please check above libraries before start this project.
 
