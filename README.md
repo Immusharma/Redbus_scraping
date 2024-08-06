@@ -24,6 +24,16 @@ Mysql: Storing the scraped data and utilizing while using Streamlit filtration p
 
 Regular Expressions (re): A module for handling string operations and data cleaning.
 
-Findings
+# Requirements.txt
 
-Findings--> Gaining a significant amount of data to utilize in the future for critical analysis and competitive analysis for any other travel company or redBus.
+1. selenium
+2. datetime
+3. pandas
+4. numpy
+5. sqlalchemy
+6. pymysql
+7. re
+8. streamlit
+9. matplotlib
+
+
