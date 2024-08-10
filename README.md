@@ -5,8 +5,8 @@ LinkedIn : www.linkedin.com/in/mohammed-imran-c
 Problem Statement:
 
 1. The "Redbus Data Scraping and Filtering with Streamlit Application" aims to revolutionize the transportation industry by providing a comprehensive solution for collecting, analyzing, and visualizing bus travel data. 
-2)By utilizing Selenium for web scraping, this project automates the extraction of detailed information from Redbus, including bus routes, schedules, prices, and seat availability. 
-3)By streamlining data collection and providing powerful tools for data-driven decision-making, this project can significantly improve operational efficiency and strategic planning in the transportation industry.
+2. By utilizing Selenium for web scraping, this project automates the extraction of detailed information from Redbus, including bus routes, schedules, prices, and seat availability. 
+3. By streamlining data collection and providing powerful tools for data-driven decision-making, this project can significantly improve operational efficiency and strategic planning in the transportation industry.
 
 Features Automated Web Scraping: Collect detailed bus travel data including routes, schedules, prices, and seat availability from the Redbus website. Data Analysis: Analyze the scraped data to extract meaningful insights and trends. Data Filtering: Filter the data based on various criteria such as route, price, departure time, etc.
 
