@@ -29,12 +29,9 @@ Regular Expressions (re): A module for handling string operations and data clean
 1. selenium
 2. datetime
 3. pandas
-4. numpy
-5. sqlalchemy
-6. pymysql
-7. re
-8. streamlit
-9. matplotlib
+4. sqlalchemy
+5. re
+6. streamlit
 
 please check above libraries before start this project.
 
