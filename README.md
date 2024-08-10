@@ -10,7 +10,7 @@ Problem Statement:
 
 Features Automated Web Scraping: Collect detailed bus travel data including routes, schedules, prices, and seat availability from the Redbus website. Data Analysis: Analyze the scraped data to extract meaningful insights and trends. Data Filtering: Filter the data based on various criteria such as route, price, departure time, etc.
 
-Tools Python, Selenium(Purpose of Web scraping), Mysql, Streamlit, Pandas(Library), DateTime(Library)
+Tools Python, Selenium(Purpose of Web scraping), Mysql, Streamlit, Pandas, DateTime(Library)
 
 Approach Python: The core programming language used for scripting and data processing.
 
